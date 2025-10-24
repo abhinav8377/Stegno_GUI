@@ -1,6 +1,6 @@
 # Steganography Tool
-A Python-based GUI application for hiding and extracting secret messages or files within images using steganography techniques.
-<img width="700" height="785" alt="image" src="https://github.com/user-attachments/assets/1f930647-005b-44cb-bb01-0e3a57dc2c49" />
+A Python-based GUI application for hiding and extracting secret messages or files within images using steganography techniques. <br>
+<img width="700" height="785" alt="image" src="https://github.com/user-attachments/assets/1f930647-005b-44cb-bb01-0e3a57dc2c49" /> <br>
 <img width="700" height="783" alt="image" src="https://github.com/user-attachments/assets/b1d6b7e6-ac77-49e3-a41a-ffc00077ae79" />
 
 
